@@ -51,10 +51,53 @@ This repository contains the ✨source code✨ for a **modern, responsive**, and
 
 Clone the repo and run the local dev server:
 
-
 ```bash
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
+```
+Then head over to 👉 http://localhost:3000
+
+Start editing via:
+
+bash
+Copy
+Edit
+app/page.tsx
+Changes auto-update 🔁 as you edit.
+🚀 Deployment
+Deployed with ❤️ on Vercel.
+For more info, check out the Next.js Deployment Docs.
+🎨 Style Guide
+Typography:
+Poppins, Raleway, Montserrat, Roboto
+
+Color Palette:
+🔵 Blue: #0056D2
+⚪ White: #FFFFFF
+🟠 Orange: #FF7F41
+Layout & Spacing:
+Clean, consistent margins and paddings across sections
+Components:
+Dynamic Hero Section
+Forms & Buttons
+Elegant Footer
+📚 Learn More
+Dive deeper into the tech behind this project:
+
+📘 Next.js Documentation
+
+🎓 Learn Next.js - Interactive Tutorial
+
+🐙 Next.js GitHub Repository
+
+🙌 Contributors
+Big thanks to those who made this project awesome:
+
+👤 Mudassir Uddin — Collaborator & Code Wizard 🧙‍♂️
+
+Made with ❤️ by the Technix-CRM Team — Redefining CRM Experience.
+Contact US:
+MailID: mdkaifpasha2k@gmail.com
