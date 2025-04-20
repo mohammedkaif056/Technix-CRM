@@ -51,12 +51,15 @@ This repository contains the ✨source code✨ for a **modern, responsive**, and
 
 Clone the repo and run the local dev server:
 
+
 ```bash
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
+
+
 Then head over to 👉 http://localhost:3000
 
 Start editing via:
@@ -100,3 +103,6 @@ Big thanks to those who made this project awesome:
 Made with ❤️ by the Technix-CRM Team — Redefining CRM Experience.
 Contact US:
 MailID: mdkaifpasha2k@gmail.com
+
+
+
