@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Technix-CRM Website Redesign
+Overview
+Welcome to the Technix-CRM Website Redesign project! This repository contains the source code for a modern, responsive, and conversion-focused CRM website built using Next.js.. The project aims to deliver a professional user experience that reflects the quality and capabilities of Technix-CRM.
 
-## Getting Started
+Features
+Dynamic Hero Section: Rotating highlights, engaging CTAs (Login, Book a Demo, Free Trial Now).
 
-First, run the development server:
+Product Overview: Snapshot of key CRM modules and capabilities.
 
-```bash
+Use Cases: Overview of target users and industries.
+
+Fully Functional Forms: Input validation, error/success messaging, and backend integration.
+
+Footer Redesign: Navigation links, contact info, legal links, and social media icons.
+
+Performance Optimization: Lightweight assets and clean, semantic code.
+
+Mobile Responsiveness: Optimized for all screen sizes.
+
+Custom CSS: No Bootstrap used; modern frameworks and custom styles implemented.
+
+Tech Stack
+Frontend: Next.js, React
+
+Backend: Node.js, Express
+
+Styling: Tailwind CSS, Custom CSS
+
+Forms: Formik, Yup for validation
+
+Deployment: Vercel
+
+Getting Started
+To run the development server locally:
+
+bash
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
-```
+Open http://localhost:3000 in your browser to see the result.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Deployment
+The easiest way to deploy your Next.js app is to use the Vercel Platform. Check out the Next.js deployment documentation for more details.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Style Guide
+Typography: Poppins, Raleway, Montserrat, Roboto
 
-## Learn More
+Color Palette: Blue (#0056D2), White (#FFFFFF), Orange (#FF7F41)
 
+Spacing: Consistent margins and padding for a clean layout
+
+Components: Dynamic hero section, buttons, forms, footer
+
+Learn More
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js Documentation - Learn about Next.js features and API.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Learn Next.js - Interactive Next.js tutorial.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Next.js GitHub Repository - Feedback and contributions are welcome!
