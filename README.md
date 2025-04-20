@@ -99,5 +99,6 @@ Big thanks to those who made this project awesome:
 👤 Mudassir Uddin — Collaborator & Code Wizard 🧙‍♂️
 
 Made with ❤️ by the Technix-CRM Team — Redefining CRM Experience.
-Contact US:
-MailID: mdkaifpasha2k@gmail.com
+
+
+Contact US: mdkaifpasha2k@gmail.com
